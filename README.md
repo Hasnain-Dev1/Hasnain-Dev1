@@ -52,9 +52,6 @@
 
 <h2 align="left" style="color: #00D9FF; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin: 0 0 20px 0; width: 100%; box-sizing: border-box;">📊 ./github-metrics</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hasnain-Dev1&theme=algolia&margin-w=15&margin-h=15&no-bg=true&column=7" width="100%" style="max-width: 100%; height: auto;" alt="Trophies" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Hasnain-Dev1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00FF94" height="170" style="max-width: 100%; height: auto;" alt="Stats" />
 <img src="https://streak-stats.demolab.com/?user=Hasnain-Dev1&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00D9FF&fire=00FF94&currStreakLabel=00D9FF" height="170" style="max-width: 100%; height: auto;" alt="Streak" />
 <br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnain-Dev1&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&radius=16" alt="GitHub Contribution Graph" width="95%" style="max-width: 95%; height: auto;" />
